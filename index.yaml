@@ -16,6 +16,6 @@ entries:
     name: python-web-app
     type: application
     urls:
-    - https://baranarda.github.io/python-app-helm/python-web-app-0.1.0.tgz
+    - python-web-app-0.1.0.tgz
     version: 0.1.0
 generated: "2022-03-03T17:01:58.3232612+02:00"
